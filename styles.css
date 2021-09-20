@@ -1,0 +1,34 @@
+.a, p {
+    font-size: 12pt;
+}
+
+.body-wrapper {
+    display: flex;
+    flex-direction: column;
+    padding: 5%;
+}
+
+.body-header {
+    color: rgb(28, 9, 95);
+    font-weight: bold;
+}
+
+.body-text {
+    color: rgb(61, 61, 61)
+}
+
+.example-link {
+    color: blue;
+}
+
+.example-link:hover {
+    color: rgb(32, 186, 224);
+    font-size: 16pt;
+}
+
+.thumb-img {
+    text-align: center;
+    display: block;
+    width: 35%;
+    height: 35%;
+}
